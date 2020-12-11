@@ -1,0 +1,189 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Tahoma, Verdana, sans-serif;
+  font-size: 13px;
+}
+
+.nav{
+  background-color: #568597;
+  height: 50px;
+  color: white;
+}
+
+.nav .row{
+  margin-top: 17px
+}
+
+.getTouch{
+  background-image: url('img/bg-2.jpeg');
+  height: 400px;
+  color: white;
+}
+
+.getTouch .row{
+  margin-top: 20px;
+}
+
+.row{
+  margin-top: 50px;
+}
+
+.title{
+  font-size: 20px;
+  color: #52babb;
+}
+
+.titlet{
+  font-size: 20px;
+}
+
+.list li{
+  margin-right: 10px;
+}
+
+.bigText{
+  font-size: 40px;
+}
+
+.advisory{
+  height: 400px;
+}
+
+.titleText span{
+  font-size: 30px;
+}
+
+.sizeVideoImg{
+  height: 200px;
+}
+
+.results{
+  background-image: url('img/streets.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 400px;
+  color: white;
+}
+
+.col .resultsList{
+  margin-top: 50px;
+}
+
+.resultsList li{
+  margin-right: 40px;
+}
+
+.resultsList li p{
+  font-size: 20px;
+  color: #52babb;
+}
+
+.resultsList li span{
+  font-size: 20px;
+}
+
+.services{
+  background-color: black;
+  height: 750px;
+  color: white;
+}
+
+.services i{
+  color: #52babb;
+  font-size: 20px;
+}
+
+.services .text-left p{
+  font-size: 20px;
+  margin-top: 20px;
+}
+
+.team{
+  height: 550px;
+}
+
+.team img{
+  height: 100px;
+  vertical-align: middle;
+}
+
+#teamExpert strong{
+  font-size: 20px;
+}
+
+.news{
+  background-color: #e7eee9;
+  height: 530px;
+}
+
+.news img{
+  height: 250px;
+  margin: 50px;
+  margin-top: 0;
+  border-radius: 10px;
+  opacity: 0.9;
+}
+
+.position{
+  position: relative;
+  height: 100%;
+}
+
+.position h4{
+  position: absolute;
+  height: 100%;
+  top: 180px;
+  left: 90px;
+  color: #f2f2f2;
+}
+
+.knowFirst{
+  background-color: black;
+  height: 250px;
+  color: white;
+}
+
+.knowFirst input{
+  background-color: #333333;
+  width: 300px;
+  margin: 15px;
+}
+
+.getInTouch{
+  height: 400px;
+}
+
+.form-inline{
+  margin: 10px;
+  margin-left: 0;
+}
+
+.input textarea, button{
+  margin: 10px;
+  margin-left: 0;
+}
+
+.footer{
+  background-image: url('img/bg-7.jpg');
+  height: 350px;
+}
+
+.tcolor{
+  color: #52babb;
+}
+
+.background-text{
+  background-color: #52babb;
+  padding: 3px;
+  border-radius: 2px;
+  opacity: 0.5;
+}
+
+.backGrey{
+  background-color: #1a1a1a;
+  padding: 20px;
+  border-radius: 4px;
+  margin-right: 40px;
+}
