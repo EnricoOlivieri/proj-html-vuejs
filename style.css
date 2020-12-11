@@ -6,6 +6,14 @@
   font-size: 13px;
 }
 
+.button, .buttons{
+  background-color: #52babb;
+}
+
+.button:hover{
+  background-color: #daf0f1;
+}
+
 .nav{
   background-color: #568597;
   height: 50px;
@@ -48,6 +56,7 @@
 }
 
 .advisory{
+  background-color: #F8F8FF;
   height: 400px;
 }
 
@@ -101,6 +110,7 @@
 }
 
 .team{
+  background-color: #F8F8FF;
   height: 550px;
 }
 
@@ -152,6 +162,7 @@
 }
 
 .getInTouch{
+  background-color: #F8F8FF;
   height: 400px;
 }
 
@@ -165,9 +176,41 @@
   margin-left: 0;
 }
 
+/* .icons i, span{
+  color: #52babb;
+  font-size: 15px;
+  margin-right: 10px;
+  margin-top: 20px;
+} */
+
+/* .icons i{
+  background-color: #daf0f1;
+  padding: 10px;
+  border-radius: 50%;
+} */
+
 .footer{
   background-image: url('img/bg-7.jpg');
   height: 350px;
+  color: white;
+}
+
+.footer ul li{
+  margin-bottom: 10px;
+}
+
+.finalFooter{
+  background-color: black;
+  height: 50px;
+  color: white;
+}
+
+.finalFooter .row{
+  margin-top: 17px;
+}
+
+.finalFooter p{
+  font-size: 10px;
 }
 
 .tcolor{
@@ -175,7 +218,7 @@
 }
 
 .background-text{
-  background-color: #52babb;
+  background-color: #daf0f1;
   padding: 3px;
   border-radius: 2px;
   opacity: 0.5;
