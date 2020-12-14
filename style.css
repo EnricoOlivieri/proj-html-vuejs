@@ -109,18 +109,36 @@
   margin-top: 20px;
 }
 
+.services .backGrey:hover{
+  background-color: grey;
+}
+
 .team{
   background-color: #F8F8FF;
-  height: 550px;
+  height: 620px;
 }
 
 .team img{
-  height: 100px;
+  height: 130px;
   vertical-align: middle;
+}
+
+.team i{
+  color: #52babb;
+  background-color: #daf0f1;
+  padding: 8px;
+  border-radius: 50%;
 }
 
 #teamExpert strong{
   font-size: 20px;
+}
+
+.teamText{
+  background-color: #52babb;
+  padding: 10px;
+  color: white;
+  border-radius: 10px;
 }
 
 .news{
@@ -133,6 +151,10 @@
   margin: 50px;
   margin-top: 0;
   border-radius: 10px;
+  opacity: 0.5;
+}
+
+.news img:hover{
   opacity: 0.9;
 }
 
@@ -176,18 +198,18 @@
   margin-left: 0;
 }
 
-/* .icons i, span{
+.Ticons span{
   color: #52babb;
   font-size: 15px;
   margin-right: 10px;
   margin-top: 20px;
-} */
+}
 
-/* .icons i{
+.Ticons i{
   background-color: #daf0f1;
   padding: 10px;
   border-radius: 50%;
-} */
+}
 
 .footer{
   background-image: url('img/bg-7.jpg');
@@ -211,6 +233,10 @@
 
 .finalFooter p{
   font-size: 10px;
+}
+
+.icons{
+  margin-bottom: 10px;
 }
 
 .tcolor{
